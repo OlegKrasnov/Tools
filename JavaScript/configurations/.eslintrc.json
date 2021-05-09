@@ -21,6 +21,7 @@
       }
     ],
     "camelcase": ["error"],
+    "comma-dangle": ["error", "never"],
     "comma-spacing": [
       "error",
       {
@@ -84,6 +85,7 @@
     "no-global-assign": ["error"],
     "no-lonely-if": ["error"],
     "no-loop-func": ["error"],
+    "no-multiple-empty-lines": ["error", { "max": 1, "maxEOF": 0 }],
     "no-self-compare": ["error"],
     "no-trailing-spaces": ["error"],
     "no-unneeded-ternary": ["error"],

@@ -4,6 +4,14 @@
     "stylelint-order"
   ],
   "rules": {
+    "at-rule-empty-line-before": [
+      "always",
+      {
+        "except": [
+          "blockless-after-blockless"
+        ]
+      }
+    ],
     "declaration-colon-space-after": "always",
     "declaration-colon-space-before": "never",
     "indentation": 2,
@@ -19,7 +27,6 @@
       "at-rules"
     ],
     "order/properties-alphabetical-order": true,
-    "rule-empty-line-before": "always",
     "string-quotes": "single"
   }
 }

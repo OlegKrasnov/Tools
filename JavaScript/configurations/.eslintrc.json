@@ -143,6 +143,7 @@
         }
       }
     ],
+    "spaced-comment": ["error", "always"],
     "template-curly-spacing": ["error", "never"]
   }
 }

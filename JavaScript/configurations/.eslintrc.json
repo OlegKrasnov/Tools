@@ -69,6 +69,7 @@
         "properties": true
       }
     ],
+    "newline-before-return": "error",
     "no-confusing-arrow": [
       "error",
       {

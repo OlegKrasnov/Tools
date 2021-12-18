@@ -9,7 +9,8 @@
       {
         "except": [
           "blockless-after-blockless"
-        ]
+        ],
+        "ignore": ["inside-block"]
       }
     ],
     "declaration-colon-space-after": "always",

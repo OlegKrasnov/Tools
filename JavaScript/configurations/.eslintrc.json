@@ -129,6 +129,14 @@
         "after": true
       }
     ],
+    "sort-keys": [
+      "error",
+      "asc",
+      {
+        "caseSensitive": false,
+        "natural":  true
+      }
+    ],
     "space-before-blocks": ["error", "always"],
     "space-before-function-paren": [
       "error",
